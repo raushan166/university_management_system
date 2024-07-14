@@ -1,2 +1,2 @@
-# university_management_system using java console
+# university_management_system_using_java_console
 university management system using java console
